@@ -1,0 +1,12 @@
+{
+	"name": "training_storage_account",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://integrationpipelinesigor.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE3OTRBNzgwLTBFQTMtNDZEMy04OEUxLUZBQTdFMDk3Q0RBQ18yMDY3Mjc1Ny0zNGQ3LTRiMzUtOGE4YS0yMmEwYjE0ZjUxNGEiDQp9"
+		}
+	}
+}
