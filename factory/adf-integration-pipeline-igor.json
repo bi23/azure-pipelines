@@ -1,0 +1,9 @@
+{
+	"name": "adf-integration-pipeline-igor",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f2d0c5d-7f67-4b1e-8fd1-6e3011b8301c",
+		"tenantId": "8aa2700d-6dd8-4a55-af2c-532e1553866a"
+	}
+}
